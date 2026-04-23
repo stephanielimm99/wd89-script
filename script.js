@@ -1195,7 +1195,7 @@ function createApkBox() {
 
       <div class="right-panel">
         <a href="XXXX" target="_blank">
-          <img src="XXXX" alt="Download APK WD89">
+          <img src="https://files.sitestatic.net/CustomFiles/202604232010510000008487f18df8__WD89__260x350.png" alt="Download APK WD89">
         </a>
       </div>
     </div>
