@@ -1174,9 +1174,9 @@ function createApkBox() {
         <div class="label">Pilih Link Alternatif:</div>
 
         <select id="altLink">
-          <option value="####">####</option>
-          <option value="####">####</option>
-          <option value="####">####</option>
+          <option value="https://vip.akses-kilat.com">vip.akses-kilat.com</option>
+          <option value="https://vip1.akses-kilat.com">vip1.akses-kilat.com</option>
+          <option value="https://vip2.akses-kilat.com">vip2.akses-kilat.com</option>
         </select>
 
         <button class="copy-btn" type="button" id="copyAltLinkBtn">Salin Link</button>
